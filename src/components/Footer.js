@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
 
-import Linkedin from "../images/logolinkedin.png"
-import Facebook from "../images/logofacebook.png"
-import Instagram from "../images/logoinstagram.png"
-import Skype from "../images/logoskype.png"
-import Twitter from "../images/logotwitter.png"
-import Pinterest from "../images/logopinterest.png"
+import Linkedin from "../images2/logolinkedin.png"
+import Facebook from "../images2/logofacebook.png"
+import Instagram from "../images2/logoinstagram.png"
+import Skype from "../images2/logoskype.png"
+import Twitter from "../images2/logotwitter.png"
+import Pinterest from "../images2/logopinterest.png"
 
 function Footer() {
 	const [inputValueFooter, setInputValueFooter] = useState('');
