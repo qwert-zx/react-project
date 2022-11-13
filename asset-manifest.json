@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-project/static/css/main.b43ca726.css",
+    "main.js": "/react-project/static/js/main.3953081d.js",
+    "static/media/heroblocks.png": "/react-project/static/media/heroblocks.a028533cd077a905eee7.png",
+    "static/media/emailSingup.png": "/react-project/static/media/emailSingup.13de1fe449957ef09448.png",
+    "static/media/imageAbout1.png": "/react-project/static/media/imageAbout1.099c4f49b0493be786a4.png",
+    "static/media/contactus.jpg": "/react-project/static/media/contactus.d795755340477545a678.jpg",
+    "static/media/pageheaders.png": "/react-project/static/media/pageheaders.4f2ea1fd198318a38cc0.png",
+    "static/media/imageBlock.png": "/react-project/static/media/imageBlock.163797909ee1893342a8.png",
+    "static/media/imageAbout2.png": "/react-project/static/media/imageAbout2.06cd12f9977e950112a2.png",
+    "static/media/vacancieImg.jpg": "/react-project/static/media/vacancieImg.2322ff56a50b85e0c2e5.jpg",
+    "static/media/vozvrattovara.png": "/react-project/static/media/vozvrattovara.da6ae80c3f8df03f0f5a.png",
+    "index.html": "/react-project/index.html",
+    "main.b43ca726.css.map": "/react-project/static/css/main.b43ca726.css.map",
+    "main.3953081d.js.map": "/react-project/static/js/main.3953081d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b43ca726.css",
+    "static/js/main.3953081d.js"
+  ]
+}
